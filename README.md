@@ -9,6 +9,9 @@ I specialize in:
 With a passion for innovation and a knack for tackling complex challenges, I bring a diverse skill set to the table.  🚀
 Let's embark on a journey through the intersection of data, algorithms, and web technologies! 🚀
 
+
+🚀 **Check out [MyPortfolio](https://bhav380-2.github.io/myPortfolio/)** for some awesome projects and experiences!
+
 ## 🔧 Technologies & Tools
 
 ### Data Science and Machine Learning
@@ -40,6 +43,6 @@ Let's embark on a journey through the intersection of data, algorithms, and web 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BhaweshRathour-blue?style-flat&logo=linkedin)](https://www.linkedin.com/in/bhaweshrathour18)
-[![LeetCode](https://img.shields.io/badge/LeetCode-BhaweshRathour-555555?style=flat&logo=leetcode)](https://leetcode.com/bhaveshrathour380/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-BhaweshRathour-555555?style=flat&logo=leetcode)](https://leetcode.com/bhaweshrathour18/)
 [![codingninjas](https://img.shields.io/badge/code%20studio-BhaweshRathour-DD6620?style=flat&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/e6a83000-04ff-4e1f-a64c-6bf2198c7983)
 [![gmail](https://img.shields.io/badge/gmail-BhaweshRathour-red?style=flat-square&logo=gmail)](mailto:bhaweshrathour18@gmail.com)
