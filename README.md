@@ -39,7 +39,7 @@ Let's embark on a journey through the intersection of data, algorithms, and web 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhaweshRathour-blue?style-flat&logo=linkedin)](www.linkedin.com/in/bhaweshrathour18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhaweshRathour-blue?style-flat&logo=linkedin)](https://www.linkedin.com/in/bhaweshrathour18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-BhaweshRathour-555555?style=flat&logo=leetcode)](https://leetcode.com/bhaveshrathour380/)
 [![codingninjas](https://img.shields.io/badge/code%20studio-BhaweshRathour-DD6620?style=flat&logo=codingninjas&logoColor=orange)](https://www.codingninjas.com/studio/profile/e6a83000-04ff-4e1f-a64c-6bf2198c7983)
 [![gmail](https://img.shields.io/badge/gmail-BhaweshRathour-red?style=flat-square&logo=gmail)](mailto:bhaweshrathour18@gmail.com)
