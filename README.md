@@ -4,7 +4,7 @@ I specialize in:
 
 - **Data Structures and Algorithms**
 - **Full Stack Web Development**
-- - **Data Science**
+- **Data Science**
 
 With a passion for innovation and a knack for tackling complex challenges, I bring a diverse skill set to the table.
 Let's embark on a journey through the intersection of data, algorithms, and web technologies!
