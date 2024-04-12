@@ -2,17 +2,17 @@
 
 I specialize in:
 
-- **Data Science and Machine Learning**: Crafting intelligent solutions and extracting meaningful insights.
-- **Data Structures and Algorithms**: Mastering the intricacies of efficient problem-solving.
-- **Full Stack Web Development**: Proficiently creating seamless web experiences from conceptualization to implementation.
+- **Data Structures and Algorithms**
+- **Full Stack Web Development**
+- - **Data Science**
 
-With a passion for innovation and a knack for tackling complex challenges, I bring a diverse skill set to the table.  🚀
-Let's embark on a journey through the intersection of data, algorithms, and web technologies! 🚀
+With a passion for innovation and a knack for tackling complex challenges, I bring a diverse skill set to the table.
+Let's embark on a journey through the intersection of data, algorithms, and web technologies!
 
 
-🚀 **Check out [MyPortfolio](https://bhav380-2.github.io/myPortfolio/)** for some awesome projects and experiences!
+ **Check out [MyPortfolio](https://bhav380-2.github.io/myPortfolio/)** for some awesome projects and experiences!
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 ### Data Science and Machine Learning
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
