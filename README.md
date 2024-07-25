@@ -1,27 +1,19 @@
-# Hello there! 👋
+# Hello there!
 
 I specialize in:
 
 - **Data Structures and Algorithms**
-- **Full Stack Web Development**
-- **Data Science**
+- **Full Stack Web Development (Node.js)**
+- **Python Tools**
 
-With a passion for innovation and a knack for tackling complex challenges, I bring a diverse skill set to the table.
-Let's embark on a journey through the intersection of data, algorithms, and web technologies!
+With a passion for innovation and a knack for dealing with challenging problems, I bring a wide range of skills to the table.
+Let’s embark on a journey through the intersection of information, algorithms, and technology!
 
 
  **Check out [MyPortfolio](https://bhav380-2.github.io/myPortfolio/)** for some awesome projects and experiences!
 
 ##  Technologies & Tools
 
-### Data Science and Machine Learning
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
-![Numpy](https://img.shields.io/badge/Numpy-555555?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-555555?style=flat&logo=seaborn)
-![Tableau](https://img.shields.io/badge/Tableau-555555?style=flat&logo=tableau)
-![Selenium](https://img.shields.io/badge/Selenium-555555?style=flat&logo=selenium)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-555555?style=flat)
 
 ### Full Stack Development
 ![HTML](https://img.shields.io/badge/HTML-555555?style=flat&logo=html5)
@@ -31,14 +23,21 @@ Let's embark on a journey through the intersection of data, algorithms, and web 
 ![AJAX](https://img.shields.io/badge/AJAX-555555?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat&logo=express)
-![API](https://img.shields.io/badge/API-555555?style=flat)
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-555555?style=flat)
 
+### Python 
+![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
+![Numpy](https://img.shields.io/badge/Numpy-555555?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas)
+![Selenium](https://img.shields.io/badge/Selenium-555555?style=flat&logo=selenium)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=flat&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-555555?style=flat)
+
+
+
 ### Database Management
-![SQLite](https://img.shields.io/badge/SQLite-555555?style=flat&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-555555?style=flat&logo=redis)
 
 ## 🌐 Connect with Me
 
