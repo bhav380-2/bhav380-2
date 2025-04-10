@@ -16,28 +16,49 @@ Let’s embark on a journey through the intersection of information, algorithms,
 
 
 ### Full Stack Development
-![HTML](https://img.shields.io/badge/HTML-555555?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-555555?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-555555?style=flat&logo=jquery)
-![AJAX](https://img.shields.io/badge/AJAX-555555?style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat&logo=express)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-555555?style=flat)
+![React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-555555?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-555555?style=for-the-badge&logo=jquery)
+![BootStrap](https://img.shields.io/badge/Bootstrap-555555?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-555555?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-555555?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-555555?style=for-the-badge&logo=express)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-555555?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
+
 
 ### Python 
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python)
-![Numpy](https://img.shields.io/badge/Numpy-555555?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas)
-![Selenium](https://img.shields.io/badge/Selenium-555555?style=flat&logo=selenium)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=flat&logo=scikit-learn)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-555555?style=flat)
+![Python](https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python)
+![Numpy](https://img.shields.io/badge/Numpy-555555?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-555555?style=for-the-badge&logo=pandas)
+![Selenium](https://img.shields.io/badge/Selenium-555555?style=for-the-badge&logo=selenium)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=for-the-badge&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![GradientBoost](https://img.shields.io/badge/GradientBoost-555555.svg?style=for-the-badge&logo=GradientBoost)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+![CataBoost](https://img.shields.io/badge/CataBoost-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+![Bagging](https://img.shields.io/badge/Bagging-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+![Stacking](https://img.shields.io/badge/Stacking-555555.svg?style=for-the-badge&logo=GradientBoost&logoColor=white)
+
 
 
 
 ### Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql)
 
 ## 🌐 Connect with Me
 
